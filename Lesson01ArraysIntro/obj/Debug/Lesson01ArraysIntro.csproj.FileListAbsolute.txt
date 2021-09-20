@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\bin\Debug\Lesson01ArraysIntro.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\bin\Debug\Lesson01ArraysIntro.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\bin\Debug\Lesson01ArraysIntro.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\obj\Debug\Lesson01ArraysIntro.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\obj\Debug\Lesson01ArraysIntro.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\obj\Debug\Lesson01ArraysIntro.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson01ArraysIntro\obj\Debug\Lesson01ArraysIntro.pdb
