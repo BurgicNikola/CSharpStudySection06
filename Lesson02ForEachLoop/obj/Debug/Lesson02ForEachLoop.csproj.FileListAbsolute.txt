@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\bin\Debug\Lesson02ForEachLoop.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\bin\Debug\Lesson02ForEachLoop.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\bin\Debug\Lesson02ForEachLoop.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\obj\Debug\Lesson02ForEachLoop.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\obj\Debug\Lesson02ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\obj\Debug\Lesson02ForEachLoop.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson02ForEachLoop\obj\Debug\Lesson02ForEachLoop.pdb
