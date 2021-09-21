@@ -1,0 +1,7 @@
+D:\C#\CSharpStudySection06\Lesson03Challenge\bin\Debug\Lesson03Challenge.exe.config
+D:\C#\CSharpStudySection06\Lesson03Challenge\bin\Debug\Lesson03Challenge.exe
+D:\C#\CSharpStudySection06\Lesson03Challenge\bin\Debug\Lesson03Challenge.pdb
+D:\C#\CSharpStudySection06\Lesson03Challenge\obj\Debug\Lesson03Challenge.csprojAssemblyReference.cache
+D:\C#\CSharpStudySection06\Lesson03Challenge\obj\Debug\Lesson03Challenge.csproj.CoreCompileInputs.cache
+D:\C#\CSharpStudySection06\Lesson03Challenge\obj\Debug\Lesson03Challenge.exe
+D:\C#\CSharpStudySection06\Lesson03Challenge\obj\Debug\Lesson03Challenge.pdb
