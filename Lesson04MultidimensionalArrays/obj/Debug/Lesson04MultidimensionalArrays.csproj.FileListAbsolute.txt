@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\bin\Debug\Lesson04MultidimensionalArrays.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\bin\Debug\Lesson04MultidimensionalArrays.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\bin\Debug\Lesson04MultidimensionalArrays.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\obj\Debug\Lesson04MultidimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\obj\Debug\Lesson04MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\obj\Debug\Lesson04MultidimensionalArrays.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson04MultidimensionalArrays\obj\Debug\Lesson04MultidimensionalArrays.pdb
