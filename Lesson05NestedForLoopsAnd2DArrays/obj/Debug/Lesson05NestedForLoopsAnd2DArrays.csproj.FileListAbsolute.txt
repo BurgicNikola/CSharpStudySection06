@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\bin\Debug\Lesson05NestedForLoopsAnd2DArrays.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\bin\Debug\Lesson05NestedForLoopsAnd2DArrays.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\bin\Debug\Lesson05NestedForLoopsAnd2DArrays.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\obj\Debug\Lesson05NestedForLoopsAnd2DArrays.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\obj\Debug\Lesson05NestedForLoopsAnd2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\obj\Debug\Lesson05NestedForLoopsAnd2DArrays.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson05NestedForLoopsAnd2DArrays\obj\Debug\Lesson05NestedForLoopsAnd2DArrays.pdb
