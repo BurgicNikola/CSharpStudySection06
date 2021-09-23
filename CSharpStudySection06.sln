@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04MultidimensionalArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05NestedForLoopsAnd2DArrays", "Lesson05NestedForLoopsAnd2DArrays\Lesson05NestedForLoopsAnd2DArrays.csproj", "{60167F0A-4D47-4E1D-A8E9-02D382F7FE9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson07TicTacToe", "Lesson07TicTacToe\Lesson07TicTacToe.csproj", "{8CE79D82-5C47-4014-AF8E-5D6B82B4F6C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{60167F0A-4D47-4E1D-A8E9-02D382F7FE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60167F0A-4D47-4E1D-A8E9-02D382F7FE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60167F0A-4D47-4E1D-A8E9-02D382F7FE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE79D82-5C47-4014-AF8E-5D6B82B4F6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE79D82-5C47-4014-AF8E-5D6B82B4F6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE79D82-5C47-4014-AF8E-5D6B82B4F6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE79D82-5C47-4014-AF8E-5D6B82B4F6C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

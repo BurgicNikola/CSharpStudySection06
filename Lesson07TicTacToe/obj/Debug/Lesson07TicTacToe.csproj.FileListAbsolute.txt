@@ -1,0 +1,7 @@
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\bin\Debug\Lesson07TicTacToe.exe.config
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\bin\Debug\Lesson07TicTacToe.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\bin\Debug\Lesson07TicTacToe.pdb
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\obj\Debug\Lesson07TicTacToe.csproj.AssemblyReference.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\obj\Debug\Lesson07TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\obj\Debug\Lesson07TicTacToe.exe
+C:\Users\nikola.burgic\source\repos\CSharpStudySection06\Lesson07TicTacToe\obj\Debug\Lesson07TicTacToe.pdb
